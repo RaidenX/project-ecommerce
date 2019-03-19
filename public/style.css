@@ -1,0 +1,14 @@
+table img.list {
+    width: 30px !important
+}
+
+div.card-body img.detail {
+    width: 40px !important
+}
+
+.card {
+    max-width: 100%;
+}
+.card-text {
+    word-wrap: break-word;
+}
