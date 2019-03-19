@@ -7,55 +7,5 @@
       "email": "user_test@user.com"
     }
   ],
-  "products": [
-    {
-      "name": "Baju Kebaya Modern Setelan Kebaya Brukat Set Kebaya Wisuda Pesta Fenti",
-      "desc": "Produk Original diproduksi sendiri",
-      "price": "145000",
-      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/12/30/350528641/350528641_c71ca32e-9865-4501-89be-8e087c698b3d_640_640.jpg",
-      "id": 1
-    },
-    {
-      "name": "DOSS Outdoor Bluetooth 4.0 Speaker",
-      "desc": "20w w Mic Flashlight 12hr IPX6 BLK",
-      "price": "650000",
-      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/9/15/9663935/9663935_4ad1fa28-d46a-418f-a1a3-0a840b827715_661_660.jpg",
-      "id": 2
-    },
-    {
-      "name": "iKey - Android Button",
-      "desc": "Ikey Android adalah alat berupa tombol jack yang mudah untuk digunakan",
-      "price": "35000",
-      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/4/6/9561560/9561560_6de058c3-023e-4448-86ec-b573b742890e_1200_1195.jpg",
-      "id": 3
-    },
-    {
-      "name": "dgvewf",
-      "desc": "fgrgvgfw",
-      "price": "4000",
-      "src": "https://bajumurahonline.biz/wp-content/uploads/2017/10/Model-Baju-Wanita-Terbaru-AD16.jpg",
-      "id": 4
-    },
-    {
-      "name": "Sandisk SDHC Ultra 64GB Class 10 UHS-1 ",
-      "desc": "80MB/s - SDSDUNC-064G",
-      "price": "166000",
-      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/6/4/9650943/9650943_9133a178-2a78-4a04-bc43-4a6d7870fef5.jpg",
-      "id": 5
-    },
-    {
-      "name": "Stanley Fiberglass -Obeng serbaguna 4 mata obeng",
-      "desc": "Stanley Fiberglass Multi-Bit Screwdriver",
-      "price": "49000",
-      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/12/4/21016872/21016872_097fff57-3013-4983-9de1-5c0600734850_1000_1000.jpg",
-      "id": 6
-    },
-    {
-      "name": "TOTOLINK A810R",
-      "desc": "AC1200 Wireless Dual Band Gigabit Router",
-      "price": "350000",
-      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/3/6/23005892/23005892_0c7b02ce-52ab-43ad-840e-89be9919ef9e_1000_1000.jpg",
-      "id": 7
-    }
-  ]
+  "products": []
 }
