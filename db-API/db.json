@@ -7,5 +7,49 @@
       "email": "user_test@user.com"
     }
   ],
-  "products": []
+  "products": [
+    {
+      "name": "OSRAM - LED HEADLIGHT - H8 - H11 - H16 - 6000K PUTIH - 25 WATT",
+      "desc": "Berat : 1000 gram / Set ( 2 Buah )",
+      "price": "900000",
+      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/2/27/16158458/16158458_e5f79d65-09d9-4db0-ac80-fb9358cb8a32_700_700.jpg",
+      "id": 1
+    },
+    {
+      "name": "Vivan Kabel Data BWC100 Type-C ",
+      "desc": "Gaming USB Cable Elbow Type C BWC 100",
+      "price": 32000,
+      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/11/23/833311/833311_c1315494-b2d4-43f0-ba36-476393498c79_700_700.png",
+      "id": 2
+    },
+    {
+      "name": "SanDisk Ultra MicroSD 128GB A1 100MB/s microSDXC UHS-I micro sd",
+      "desc": "SanDisk Ultra microSDXC UHS-I Class 10 128GB 100MB/s A1 GARANSI RESMI",
+      "price": 280000,
+      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/9/9/1677492/1677492_6709156f-9fa8-4c20-b258-8f653ba338a3_512_512.jpg",
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "username": "user_test",
+      "name": "OSRAM - LED HEADLIGHT - H8 - H11 - H16 - 6000K PUTIH - 25 WATT",
+      "qty": 5,
+      "desc": "Berat : 1000 gram / Set ( 2 Buah )",
+      "price": "900000",
+      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/2/27/16158458/16158458_e5f79d65-09d9-4db0-ac80-fb9358cb8a32_700_700.jpg",
+      "id": 1
+    },
+    {
+      "productId": 1,
+      "username": "user_test",
+      "name": "OSRAM - LED HEADLIGHT - H8 - H11 - H16 - 6000K PUTIH - 25 WATT",
+      "qty": 13,
+      "desc": "Berat : 1000 gram / Set ( 2 Buah )",
+      "price": "900000",
+      "src": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/2/27/16158458/16158458_e5f79d65-09d9-4db0-ac80-fb9358cb8a32_700_700.jpg",
+      "id": 3
+    }
+  ]
 }
